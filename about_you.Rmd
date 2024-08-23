@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Andrew Gligoriu Valladares"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
+ I attended multiple High School's but the High School I graduated from was Pete Knight High School. Math was always a bit easier for me than English. The subject I did best in was History and Biology. 
      
 
 
@@ -27,14 +27,14 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
-   
+   I have a windows laptop and I would say I am a 5-6 on the scale of knowing computers. My internet connection at home is very good. 
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
   
-   
+   I prefer my first name which is, Andrew.
  
 
 
@@ -47,7 +47,7 @@ What do you want to achieve in life?  What college subject do you think would be
   
    
  
-
+I want to achieve finicial freedom. The subject in college that would be my greatest interest is the AFAB class. I am tryin to get my AFAB certification.
 
 
 
@@ -57,7 +57,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 ### my answer     
   
    
-  
+  I've only ever been to arizona and texas, I've never been out of country before. Some of the countries I want to go to are El Salvador and Brazil. The branch I would choose if I got drafted would be the army or military. 
 
 
 
@@ -70,7 +70,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
 ### my answer     
   
    
- 
+ I am taking Math 115 and I am aware that it only covers the base education requirment. I want to attain an A in this class.
 
 
 
